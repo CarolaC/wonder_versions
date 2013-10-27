@@ -27,11 +27,11 @@
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 #include <getopt.h>
-#include <cstdio>
 #include <string>
 #include <cstring>
 #include <cstdlib>
 
+#include <stdio.h>
 #include "jfwonder_config.h"
 
 

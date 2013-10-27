@@ -34,7 +34,6 @@
 #include "scoresaxparser.h"
 #include "scoreplayer_config.h"
 
-#include <cstdio>
 #include <iostream>
 #include <fstream>
 #include <sstream>

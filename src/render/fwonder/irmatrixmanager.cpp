@@ -30,7 +30,6 @@
 #include "fwonder_config.h"
 #include "impulseresponse.h"
 
-#include <cstdio>
 #include <sstream>
 #include <iostream>
 #include <utility>

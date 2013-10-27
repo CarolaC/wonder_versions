@@ -39,7 +39,6 @@
 
 #include <ctime>
 #include <cstdlib>
-#include <unistd.h>
 
 using std::cout;
 using std::cerr;

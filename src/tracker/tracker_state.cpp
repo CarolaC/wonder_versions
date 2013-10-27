@@ -29,7 +29,6 @@
 #include "tracker_state.h"
 #include "tracker_config.h"
 
-#include <cstdio>
 #include <lo/lo.h>
 
 #include <termios.h>

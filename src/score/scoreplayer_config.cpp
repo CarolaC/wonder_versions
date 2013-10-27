@@ -31,7 +31,6 @@
 #include "wonder_path.h"
 #include "config.h"
 
-#include <cstdio>
 #include <getopt.h>
 #include <libxml++/libxml++.h>
 

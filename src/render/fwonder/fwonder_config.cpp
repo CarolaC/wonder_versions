@@ -30,7 +30,6 @@
 #include "config.h"
 #include "wonder_path.h"
 
-#include <cstdio>
 #include <iostream>
 #include <fstream>
 #include <sstream>

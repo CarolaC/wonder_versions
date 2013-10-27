@@ -33,7 +33,6 @@
 #include "isense.h"
 #include "oscin.h"
 
-#include <cstdio>
 #include <sys/time.h>
 #include <cstdlib>
 #include <cstring>

@@ -31,7 +31,6 @@
 #include <cstring>
 #include <cstdlib>
 
-#include <stdio.h>
 #include "jfwonder_config.h"
 
 

@@ -30,7 +30,6 @@
 #include "delaycoeff.h"
 
 #include <cmath>
-#include <stdio.h>
 
 DelayLine::DelayLine( float maxDelay ) : maxDelay( maxDelay ), writePos( 0 ), readPos( 0 ), readPosF( 0.0 )
 {

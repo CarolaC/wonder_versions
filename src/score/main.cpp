@@ -31,7 +31,6 @@
 #include <cstdlib>
 
 #include <lo/lo.h>
-#include <unistd.h>
 
 #include "rtmidi/RtMidi.h"
 

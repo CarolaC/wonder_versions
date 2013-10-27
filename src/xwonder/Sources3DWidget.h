@@ -33,7 +33,6 @@
 #include <QMap>
 #include <QHash>
 #include <QPoint>
-#include <GL/glu.h>
 #include "SourceCoordinates.h"
 
 class QKeyEvent;
